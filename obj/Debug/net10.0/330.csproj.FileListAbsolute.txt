@@ -1,0 +1,14 @@
+/Users/isaachennessey/Documents/330/bin/Debug/net10.0/330
+/Users/isaachennessey/Documents/330/bin/Debug/net10.0/330.deps.json
+/Users/isaachennessey/Documents/330/bin/Debug/net10.0/330.runtimeconfig.json
+/Users/isaachennessey/Documents/330/bin/Debug/net10.0/330.dll
+/Users/isaachennessey/Documents/330/bin/Debug/net10.0/330.pdb
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.AssemblyInfoInputs.cache
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.AssemblyInfo.cs
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.csproj.CoreCompileInputs.cache
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.dll
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/refint/330.dll
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.pdb
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/330.genruntimeconfig.cache
+/Users/isaachennessey/Documents/330/obj/Debug/net10.0/ref/330.dll
